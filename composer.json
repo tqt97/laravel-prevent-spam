@@ -1,0 +1,26 @@
+{
+    "name": "tuantq/laravel-prevent-spam",
+    "description": "Prevent spam with honeypot field",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tuantq\\LaravelPreventSpam\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tuantq\\LaravelPreventSpam\\PreventSpamServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "tqt97",
+            "email": "kutuanonline199@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
