@@ -177,7 +177,6 @@ Wait more than the configured seconds, and it will pass normally.
 ## 💬 Credits
 
 Developed by [**Tuấn TQ**](https://github.com/tuantq)
-Inspired by [Spatie’s Laravel Honeypot](https://github.com/spatie/laravel-honeypot)
 
 ---
 
